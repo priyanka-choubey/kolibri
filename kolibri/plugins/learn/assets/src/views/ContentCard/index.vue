@@ -147,7 +147,7 @@
   @import '~kolibri.styles.definitions';
   @import './card';
 
-  $margin: 16px;
+  $margin: 24px;
 
   .coach-content-label {
     display: inline-block;
